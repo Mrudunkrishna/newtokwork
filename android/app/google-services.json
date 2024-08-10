@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607940440605",
+    "project_id": "fluttrwrk",
+    "storage_bucket": "fluttrwrk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607940440605:android:79a74115879438d5ffccf4",
+        "android_client_info": {
+          "package_name": "com.example.flutterprjct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOC6qVsDSWGP_3TFjyKVCy4Xx-XsnDF8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
